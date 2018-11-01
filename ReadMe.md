@@ -1,4 +1,4 @@
-#BetterLinks
+# BetterLinks
 
 This is a very basic script that checks threads on /r/jailbreak for thebigboss.org or modmyi.com package depiction links and leaves a comment mentioning that it is better to use cydia.saurik.com links. 
 
