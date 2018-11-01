@@ -6,7 +6,6 @@ import praw
 print "||===============================Starting betterLinks.py===============================||"
 
 SUBREDDIT = "jailbreak"
-USERNAME = ""
 USER_AGENT = ""
 
 
